@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <Container bar={bar}>
         <Logo>
-            <img src="https://d33wubrfki0l68.cloudfront.net/653b467e3856060a9a6888b5/7463848ec0bfad0ef717/new.png"></img>
+            <span className='green'><GiCandleFlame/></span>
             <h1>SK FUTURE TECH</h1>
         </Logo>
         <Nav bar={bar}>
