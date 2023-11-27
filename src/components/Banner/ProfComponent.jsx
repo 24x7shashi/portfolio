@@ -14,7 +14,7 @@ const ProfComponent = () => {
             Hello <span className="green">I'am</span>
           </h4>
           <h1 className="green">Shashi Kant Vishwakarma</h1>
-          <h3>UX/UI Designer and graphic designer</h3>
+          <h3>Website designer and UX/UI Designer</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores,
             iusto. Adipisci in qui officia provident tenetur sequi, deserunt
