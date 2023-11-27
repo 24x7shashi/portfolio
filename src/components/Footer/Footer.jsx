@@ -118,8 +118,8 @@ const Footer = () => {
           </form>
         </Slide>
       </Form>
-      <div>Copy right @2023 Allright resierved by sk</div>
     </Container>
+     <div class="sk">Copy right @2023 Allright resierved by sk</div>
   );
 };
 
