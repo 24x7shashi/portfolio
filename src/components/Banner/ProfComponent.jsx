@@ -16,9 +16,9 @@ const ProfComponent = () => {
           <h1 className="green">Shashi Kant Vishwakarma</h1>
           <h3>Website designer and UX/UI Designer</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores,
-            iusto. Adipisci in qui officia provident tenetur sequi, deserunt
-            corporis quos?
+            "Transforming pixels into purpose, where creativity meets functionality,
+            and every click tells a compelling story – because in the digital realm,
+            your design is not just a reflection; it's an inspiration."
           </p>
           <button>Let's talk</button>
           <Social>
