@@ -75,6 +75,7 @@ const Container = styled.div`
 `;
 const Texts = styled.div`
   flex: 1;
+  padding-right: 10rem;
   h4 {
     padding: 1rem 0;
     font-weight: 500;
