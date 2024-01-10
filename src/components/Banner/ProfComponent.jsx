@@ -150,7 +150,6 @@ const Profile = styled.div`
     width: 20rem;
     filter: drop-shadow(0px 10px 10px #01be9570);
     transition: transform 400ms ease-in-out;
-    marging-left: 10rem;
     @media (max-width: 790px) {
       width: 20rem;
     }
