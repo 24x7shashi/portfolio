@@ -46,7 +46,7 @@ const ProfComponent = () => {
       <Slide direction="right">
         <Profile>
           <img
-            src="https://res.cloudinary.com/ghazni/image/upload/v1659082282/Yt-portfolio/Untitled-1_drcspz.png"
+            src="https://dc.wprollout.in/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-25-at-1.01.33-PM.jpeg"
             alt="profile"
           />
         </Profile>
